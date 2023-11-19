@@ -1,0 +1,15 @@
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/bin/Debug/net6.0/Task1-2
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/bin/Debug/net6.0/Task1-2.deps.json
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/bin/Debug/net6.0/Task1-2.runtimeconfig.json
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/bin/Debug/net6.0/Task1-2.dll
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/bin/Debug/net6.0/Task1-2.pdb
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.dll
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/refint/Task1-2.dll
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.pdb
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/Task1-2.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/problem solving using c#/Task1-2 Solution/Task1-2/obj/Debug/net6.0/ref/Task1-2.dll
