@@ -1,0 +1,15 @@
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/bin/Debug/net6.0/CoffeeShop
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/bin/Debug/net6.0/CoffeeShop.deps.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/bin/Debug/net6.0/CoffeeShop.runtimeconfig.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/bin/Debug/net6.0/CoffeeShop.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/bin/Debug/net6.0/CoffeeShop.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/refint/CoffeeShop.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/CoffeeShop.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/CoffeeShop solution/CoffeeShop/obj/Debug/net6.0/ref/CoffeeShop.dll

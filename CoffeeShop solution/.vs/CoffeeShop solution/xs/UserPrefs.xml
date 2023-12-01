@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EC824F71-FDC7-4EE8-A560-BCFBE5AA72F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.CoffeeShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShop/Program.cs">
+    <Files>
+      <File FileName="CoffeeShop/Program.cs" Line="54" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoffeeShop solution" expanded="True">
+            <Node name="CoffeeShop" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
