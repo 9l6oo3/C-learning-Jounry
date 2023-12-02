@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{97A22E09-4CCA-4DAA-AFE6-6121465CB1BE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AuthorandBookManagementSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthorandBookManagementSystem/Author.cs">
+    <Files>
+      <File FileName="AuthorandBookManagementSystem/Program.cs" Line="24" Column="30" />
+      <File FileName="AuthorandBookManagementSystem/Author.cs" Line="51" Column="46" />
+      <File FileName="AuthorandBookManagementSystem/Book.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthorandBookManagementSystem Solution" expanded="True">
+            <Node name="AuthorandBookManagementSystem" expanded="True">
+              <Node name="Author.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthorandBookManagementSystem Solution" expanded="True">
+            <Node name="AuthorandBookManagementSystem" expanded="True">
+              <Node name="Author.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
