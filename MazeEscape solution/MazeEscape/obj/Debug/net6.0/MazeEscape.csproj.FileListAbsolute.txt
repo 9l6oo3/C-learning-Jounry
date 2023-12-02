@@ -1,0 +1,15 @@
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/bin/Debug/net6.0/MazeEscape
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/bin/Debug/net6.0/MazeEscape.deps.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/bin/Debug/net6.0/MazeEscape.runtimeconfig.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/bin/Debug/net6.0/MazeEscape.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/bin/Debug/net6.0/MazeEscape.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/refint/MazeEscape.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/MazeEscape.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/MazeEscape solution/MazeEscape/obj/Debug/net6.0/ref/MazeEscape.dll

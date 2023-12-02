@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F97F6CDF-6F4B-41AD-AF3F-E7C54EB42DF9}|Default">
+  <MonoDevelop.Ide.ItemProperties.MazeEscape PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MazeEscape/Program.cs">
+    <Files>
+      <File FileName="MazeEscape/Program.cs" Line="63" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MazeEscape solution" expanded="True">
+            <Node name="MazeEscape" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MazeEscape solution" expanded="True">
+            <Node name="MazeEscape" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
