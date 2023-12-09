@@ -1,0 +1,15 @@
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/bin/Debug/net6.0/ZooSystem
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/bin/Debug/net6.0/ZooSystem.deps.json
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/bin/Debug/net6.0/ZooSystem.runtimeconfig.json
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/bin/Debug/net6.0/ZooSystem.dll
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/bin/Debug/net6.0/ZooSystem.pdb
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.dll
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/refint/ZooSystem.dll
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.pdb
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ZooSystem.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/test /ZooSystem solution/ZooSystem/obj/Debug/net6.0/ref/ZooSystem.dll

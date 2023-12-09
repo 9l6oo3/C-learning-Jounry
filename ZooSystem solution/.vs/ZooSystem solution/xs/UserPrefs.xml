@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BED63C59-EB8F-4C42-8EE7-A1B8E0DC0DA4}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ZooSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZooSystem/Animal.cs">
+    <Files>
+      <File FileName="ZooSystem/Program.cs" />
+      <File FileName="ZooSystem/Animal.cs" Line="13" Column="1" />
+      <File FileName="ZooSystem/Bird.cs" />
+      <File FileName="ZooSystem/Mammal.cs" />
+      <File FileName="ZooSystem/Reptile.cs" />
+      <File FileName="ZooSystem/Zoo.cs" Line="26" Column="113" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZooSystem solution" expanded="True">
+            <Node name="ZooSystem" expanded="True">
+              <Node name="Animal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
